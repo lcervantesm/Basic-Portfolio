@@ -1,7 +1,66 @@
 .name{
     background:#4aaaa5;
     color:white;
-    float:left;
+    width:23%;
+    margin-top:1%;
     margin-left:10%;
-    padding:15%;
+    padding:2%;
+    font-size:50px;
+    position:relative;
+    clear:both;
+    
+    
+}
+.header{
+    width:100%;
+    border:1px solid #cccccc;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    
+    margin:auto;
+    background:white;
+    
+}
+
+.nav{
+    position:absolute;
+    float:left;
+    width: 20%;
+    text-decoration:none;
+    overflow:auto;
+    top: 60px;
+    left:900px;
+    
+}
+
+.container{
+    width:100%;
+}
+
+a{
+    text-decoration: none;
+}
+
+.section{
+    background-image: url("../images/circles-light.png");
+    padding:100px;
+}
+.psquare{
+    background:white;
+    margin-top:1%;
+    margin-left:10%;
+    margin-right:10%;
+}
+.footer{
+    position:fixed;
+    bottom:0;
+    text-align:center;
+    background:#666666;
+    width:100%;
+    padding:20px;
+    color:white;
+    
+}
+.fborder{
+    background: #4aaaa5;
+    width:100%;
 }
