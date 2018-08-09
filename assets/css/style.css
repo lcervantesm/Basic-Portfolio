@@ -98,6 +98,7 @@ a{
 }
 p{
     line-height: 35px;
+    margin-left:5px;
 }
 form {
     /* Sólo para centrar el formulario a la página */
